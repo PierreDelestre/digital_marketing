@@ -1,0 +1,30 @@
+% ECommerce = 'The buying and selling of of goods and services online'
+
+x categories Of ECommerce = 
+    - Physical Products,
+    - DigitalProducts,
+    - Services,
+    - Software
+
+
+% digital Marketing = 'The practice of reaching consumers online through digital channels with the aim of turning them into customers'
+
+% digitalChannel = 'Any communication method or platform a business can use to reach their target audience online.'
+
+x advantages Of Digital Marketing = 
+    - cost Effective,
+    - reach More People,
+    - brand Recognition,
+    - faster Results,
+    - build relationships with customers
+
+
+! what do digital marketing and e-commerce specialists do:
+- Audience research
+- Planning
+- creating or publishing content
+- updating product descriptions
+- analyzing data to overview the results for efforts
+
+
+
