@@ -2,7 +2,7 @@
 
 x categories Of ECommerce = 
     - Physical Products,
-    - DigitalProducts,
+    - Digital Products,
     - Services,
     - Software
 
@@ -25,6 +25,12 @@ x advantages Of Digital Marketing =
 - creating or publishing content
 - updating product descriptions
 - analyzing data to overview the results for efforts
+
+x transferable skills in DM:
+- curiosity
+- analytical mindset
+- story telling
+
 
 
 

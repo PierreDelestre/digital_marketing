@@ -1,0 +1,63 @@
+% ASSOCIATE-LEVEL ROLES IN DM:
+
+    x DM coordinator:
+        Coordinate marketing activities and initiatives
+        Identify target audiences through research
+        Run campaigns
+        Monitor metrics to evaluate trends
+
+    x Marketing ASSOCIATE
+        Prepare reports on marketing and sales metrics
+        Collect and analyze customer behavior metrics, such as web traffic and search rankings 
+        Coordinate with marketing teams to generate digital advertising materials
+        Assist with ongoing marketing campaigns
+
+    x SEO specialist
+        Develop optimization strategies to improve search rankings
+        Implement keywords for SEO 
+        Monitor metrics to understand SEO performance
+        Update links for optimization of search rankings
+
+    x Search Engine Marketing (SEM) specialist
+        Identify customer personas to enable marketing to identified audiences
+        Perform research on keywords for SEO and Pay Per Click (PPC) ads
+        Monitor metrics to optimize paid search performance
+        Identify and monitor key performance indicators (KPIs) for SEM
+
+    x Social Media specialist
+        Develop, implement, and manage a social media marketing strategy
+        Collaborate with sales and marketing teams on social media campaigns
+        Create content to build customer connections and increase brand awareness 
+        Monitor metrics in social media campaigns for customer engagement and content optimization insights
+
+    x Email marketing specialist
+        Create email marketing campaigns to promote products or services
+        Create an archive of emails for lead generation
+        Purge non-deliverable and unsubscribed email addresses
+        Use metrics to monitor the performance of email campaigns 
+
+% ASSOCIATE-LEVEL ROLES IN E-COMMERCE
+
+    x E-commerce analyst
+        Implement e-commerce strategies to support business goals
+        Set e-commerce goals and key performance indicators (KPIs) for key attributes like audience, acquisition, behavior, and conversions
+        Monitor and analyze e-commerce metrics 
+        Leverage e-commerce data for operational insight
+
+    x E-commerce specialist
+        Develop and run campaigns to increase digital sales as part of an overall digital marketing strategy
+        Optimize paid advertising campaigns using SEO and other tools
+        Manage an online marketing presence, including social media platforms
+        Monitor metrics for spikes in website traffic or sales
+
+% HIGH LEVEL ROLES IN DM
+
+    x DM manager
+        Plan and execute digital marketing, including SEO/SEM, email, social media, and display advertising campaigns
+        Measure and report performance and return on investment (ROI) for digital marketing 
+        Plan, execute, and evaluate A/B tests and experiments
+        Evaluate and improve the end-to-end customer experience across multiple channels and customer touchpoints
+
+    
+
+    
