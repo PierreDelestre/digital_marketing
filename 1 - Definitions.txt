@@ -39,6 +39,75 @@ x Social media marketing creates content for different social media platforms to
 
 % Influencer marketing enlists influential people to endorse or mention a brand or product to their followers on social media.
 
+% customer journey:
+    The path you take from learning about a products to getting your questions answered to making a purchase
+
+% Touchpoint:
+    Each interaction with a brand during a purchase journey
+    
+% Customer journey map:
+    a visualization of the touchpoints a typical customer encounters along their purchase journey
+
+% Marketing funnel:
+    a visual representation of the process through which people go from first learning about a brand to becoming loyal customers
+    awareness
+    consideration
+    conversion
+    loyalty
+
+% Measurements:
+    METRIC = A quantifiable measurement used to track and assess progress toward an objective
+    
+    ? HOW TO GAUGE AWARENESS:
+    IMPRESSIONS = The total number of times an ad appears on people's screens
+    REACH = The total number of unique individuals who encounter an ad across their different devices
+    FREQUENCY = How many times each individual ecounters an ad in a given timeframe
+
+    ? HOW TO GAUGE CONSIDERATION:
+    ENGAGEMENT =
+        - How often customers search for your business online
+        - Number of first-time visitors
+        - Number of pages per visitors
+        - How long visitors spend on a page
+        - Email or newsleter signup
+
+    ? CONVERSION TACTICS:
+        - Accurate product descriptions
+        - Smooth checkout process
+        - clear return policy
+        - product focused ads
+        - clearly organized website
+
+    ? LOYALTY TACTICS:
+        - Great experience during and after purchase
+        - Follow up emails
+        - Rewards programs
+        - Social media engagement
+
+    ? MEASURING CONVERSION:
+        - Number of conversions
+        - Time to conversion
+        - Cost per conversion
+        - Average number of touchpoints
+        - Average order size
+
+    ? MEASURING LOYALTY:
+        - rate of repeat purchases
+        - length of time between purchases
+        - Number of orders per customer
+        - rate of account activation after sign-up
+        - Level of engagements with Rewards programs
+
+    ! Brand Equity: The value consumers attribute to one's brand offereings compared with similar 
+    ! products from another brand 
+
+    
+
+    
+
+
+
+
 
 
 
