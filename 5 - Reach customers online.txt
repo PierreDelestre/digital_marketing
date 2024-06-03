@@ -1,0 +1,36 @@
+! 3 categories of digital media:
+    - paid
+    - owned
+    - earned
+
+% paid media:
+    any form of digital promotion a brand pays to put online
+
+    ex:
+    - banner ads
+    - video ads
+    - social media ads
+    - shopping ads
+    - pop-ups
+
+ % owned media:
+    all the digital content a brand fully controls
+
+    ex:
+    - website content
+    - blogs
+    - ebooks
+    - social media content
+    - whitepapers
+    - case studies
+
+% Earned media:
+    positive digital exposure generated through personal or public recommendations
+
+    ex:
+    - social media mentions
+    - blog posts
+    - written or video reviews
+    - positive press coverage
+    
+
